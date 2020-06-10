@@ -1,0 +1,41 @@
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>
+      {% if page.title %}
+        {{ page.title }}
+      {% else %}
+        {{ site.title }}
+      {% endif %}
+    </title>
+    <meta name="viewport" content="width=device-width">
+    <meta name="description" content="{{ site.description }}">
+    <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+    <link rel="apple-touch-icon" sizes="180x180" href="{{ "/img/apple-touch-icon.png" | prepend: site.baseurl }}">
+    <link rel="icon" type="image/png" sizes="32x32" href="{{ "/img/favicon-32x32.png" | prepend: site.baseurl }}">
+    <link rel="icon" type="image/png" sizes="16x16" href="{{ "/img/favicon-16x16.png" | prepend: site.baseurl }}">
+    <link rel="manifest" href="{{ "/img/site.webmanifest" | prepend: site.baseurl }}">
+    <link rel="mask-icon" href="{{ "/img/safari-pinned-tab.svg" color="{{ site.color.primary-dark }}">
+    <link rel="shortcut icon" href="{{ "/img/favicon.ico">
+    <meta name="msapplication-TileColor" content="{{ site.color.primary-dark }}">
+    <meta name="msapplication-config" content="{{ "/img/browserconfig.xml" | prepend: site.baseurl }}">
+    <meta name="theme-color" content="{{ site.color.primary-dark }}">
+    <meta property="og:image" content="{{ "/img/uct-front.jpg" | prepend: site.baseurl }}">
+    <meta property="og:image:height" content="1257">
+    <meta property="og:image:width" content="2400">
+    <meta property="og:title" content="State of the Map 2020 - Cape Town">
+    <meta property="og:description" content="The global OpenStreetMap conference. July 3 - 5 July, 2020 in Cape Town, South Africa. Join us for a three day event around OpenStreetMap for talks, discussions, workshops and more.">
+    <meta property="og:url" content="https://2020.stateofthemap.org">
+
+    <!-- Custom CSS & Bootstrap Core CSS - Uses Bootswatch Flatly Theme: http://bootswatch.com/flatly/ -->
+    <link rel="stylesheet" href="{{ "/style.css" | prepend: site.baseurl }}?{{site.time | date: '%s%N'}}">
+
+    <!-- Custom Fonts -->
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+</head>

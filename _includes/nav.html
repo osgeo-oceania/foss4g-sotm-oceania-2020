@@ -1,0 +1,81 @@
+ <!-- Navigation -->
+    <nav class="navbar navbar-custom navbar-fixed-top  {% if page.role != "index" %} top-nav-collapse stay-collapsed {% endif %}" role="navigation">
+        <div class="limiter">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-main-collapse">
+                    <span class="icon menu"></span>
+                </button>
+                <a class="navbar-brand" href="{{site.baseurl}}/">
+                 State of the Map <span class="numeral">2020</span>
+                </a>
+            </div>
+
+            <div class="collapse navbar-collapse navbar-right navbar-main-collapse">
+                <ul class="nav navbar-nav">
+                    <li class="hidden">
+                        <a class="page-scroll" href="#page-top"></a>
+                    </li>
+                    <!--<li>
+                        <a class="{% if page.url contains '/cfp' %}active{% endif %}" href="{{site.baseurl}}/cfp">Call for Participation</a>
+                    </li>
+                    <li>
+                        <a class="{% if page.url contains '/cfp' %}active{% endif %}" href="{{site.baseurl}}/cfp/academic">Call for Academic Track</a>
+                    </li>-->
+                    <!--
+                    <li>
+                        <a href="https://blog.openstreetmap.org/2020/01/18/sotm2020-applications-for-scholarships-open/">Apply for Scholarship</a>
+		    </li>-->
+                    <li>
+                        <a class="{% if page.url contains '/calls/posters' %}active{% endif %}" href="{{site.baseurl}}/calls/posters">Call for Posters</a>
+                    </li>
+                    <!--<li>
+                        <a class="{% if page.url contains '/tickets' %}active{% endif %}" href="{{site.baseurl}}/tickets/"><s>Tickets</s></a>
+                    </li>-->
+
+                    <!--<li>
+                      {% if page.role == 'index' %}
+                        <a class="page-scroll" href="#streaming">Videos</a>
+                      {% else %}
+                        <a class="" href="{{site.baseurl}}/#streaming">Videos</a>
+                      {% endif %}
+                    </li>-->
+                    <li>
+                        <a class="{% if page.url contains '/programme' %}active{% endif %}" href="{{site.baseurl}}/programme/">Programme</a>
+                    </li>
+                    <!--<li>
+                        <a class="{% if page.url contains '/academic_programme' %}active{% endif %}" href="{{site.baseurl}}/academic_programme/">Academic Programme</a>
+                    </li>
+                    <li>
+                        <a class="{% if page.url contains '/events' %}active{% endif %}" href="{{site.baseurl}}/events/">Events</a>
+                    </li>
+                    <li>
+                        <a class="{% if page.url contains '/venue' %}active{% endif %}" href="{{site.baseurl}}/venue/">Venue</a>
+                    </li>-->
+
+                    <!--<li>
+                        <a class="{% if page.url contains '/accommodation' %}active{% endif %}" href="{{site.baseurl}}/accommodation/">Accommodation</a>
+                    </li>-->
+                    <li>
+                      {% if page.role == 'index' %}
+                        <a class="page-scroll" href="#newsletter">Newsletter</a>
+                      {% else %}
+                        <a class="" href="{{site.baseurl}}/#newsletter">Newsletter</a>
+                      {% endif %}
+                    </li>
+                    <li>
+                      {% if page.role == 'index' %}
+                        <a class="page-scroll" href="#sponsors">Sponsors</a>
+                      {% else %}
+                        <a class="" href="{{site.baseurl}}/#sponsors">Sponsors</a>
+                      {% endif %}
+                    </li>
+                    <!--<li>
+                        <a class="{% if page.url contains '/attending' %}active{% endif %}" href="{{site.baseurl}}/attending/">Attending</a>
+                    </li>-->
+                    <!--<li>
+                        <a class="{% if page.url contains '/codeofconduct' %}active{% endif %}" href="{{site.baseurl}}/codeofconduct">Code of conduct</a>
+                    </li>-->
+                </ul>
+            </div>
+        </div>
+    </nav>

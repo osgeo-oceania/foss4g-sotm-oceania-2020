@@ -1,0 +1,45 @@
+# Site settings
+title: OSGeo Oceania playpen
+email: adam@spatialised.net
+description: "Join us for three days of talks, discussions and workshops around the free and open map of the world."
+url: "https://spatialised.github.io/osgeo-oceania-template/" # the base hostname & protocol for your site
+twitter_username: _spatialised_
+github_username:  Spatialised
+
+# Build settings
+markdown: kramdown
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary-dark: 'rgb(51,204,51)'
+  primary-light: 'rgb(204,204,0)'
+  links: '#000'
+  links-light: '#333'
+  links-white: '#333'
+  text: '#030303'
+  background-light: '#fff'
+  text-light: '#fff'
+
+# Settings for map tiles used in leaflet maps
+map_tiles:
+  url: 'https://tile.openstreetmap.org/{z}/{x}/{y}.png'
+  attribution: '&copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors'
+  maxZoom: 19
+
+# Repo files to not include in built site
+exclude:
+  - Dockerfile*
+  - docker-compose.*
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+
+permalink: /:title/
+relative_permalinks: false
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      permalink: /:title/
