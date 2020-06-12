@@ -2,17 +2,17 @@
 title: OSGeo Oceania playpen
 email: adam@spatialised.net
 description: "Join us for three days of talks, discussions and workshops around the free and open map of the world."
-url: "https://spatialised.github.io/osgeo-oceania-template/" # the base hostname & protocol for your site
-twitter_username: _spatialised_
-github_username:  Spatialised
+url: "https://2020.foss4g-oceania.org/" # the base hostname & protocol for your site
+twitter_username: foss4g_oceania
+github_username:
 
 # Build settings
 markdown: kramdown
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary-dark: 'rgb(51,204,51)'
-  primary-light: 'rgb(204,204,0)'
+  primary-dark: 'rgb(216,125,24)'
+  primary-light: 'rgb(8,69,72)'
   links: '#000'
   links-light: '#333'
   links-white: '#333'
