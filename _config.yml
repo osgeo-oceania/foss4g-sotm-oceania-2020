@@ -1,7 +1,7 @@
 # Site settings
-title: OSGeo Oceania playpen
-email: adam@spatialised.net
-description: "Join us for three days of talks, discussions and workshops around the free and open map of the world."
+title: FOSS4G SotM Oceania 2020
+email: adam.d.steer@gmail.com
+description: "Join us for talks, workshops and discussion around open source geospatial software and Openstreetmap in Oceania."
 url: "https://2020.foss4g-oceania.org/" # the base hostname & protocol for your site
 twitter_username: foss4g_oceania
 github_username:
