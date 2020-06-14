@@ -1,4 +1,6 @@
-# State of the Map 2020 Website
+# FOSS4G SotM Oceania 2020 Website
+
+...forked from the 2020 State of the Map website: https://github.com/openstreetmap/stateofthemap-2020
 
 ## Local installation
 
@@ -8,7 +10,7 @@ See http://jekyllrb.com/docs/installation/
 
 ### View locally
 
-* `git clone git@github.com:openstreetmap/stateofthemap-2020.git`
+* `git clone git@github.com:foss4g-oceania/foss4g-sotm-oceania-2020.git`
 * `cd stateofthemap-2020`
 * `jekyll serve -wl`
 * Point your browser to `http://localhost:4000/`
