@@ -12,7 +12,7 @@ html {
     height: 100%;
 }
 
-.head {
+head {
     background-image: {{img/uct-front.jp}};
 }
 
