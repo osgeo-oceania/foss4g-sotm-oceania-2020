@@ -13,7 +13,7 @@ html {
 }
 
 .page {
-  background-image: url("/img/uct-front.jpg");
+  background-image: {{"/img/uct-front.jpg"}};
   background-color: {{ site.color.primary-light }};
   color: {{ site.color.links-white }};
 }
