@@ -5,6 +5,7 @@ body {
     font-size: 17px;
     color: {{ site.color.text }};
     background-color: {{ site.color.background-light }}
+    background-image: {{"/img/uct-front.jpg"}};
 }
 
 html {
@@ -13,9 +14,8 @@ html {
 }
 
 .page {
-  background-image: {{"/img/uct-front.jpg"}};
-  background-color: {{ site.color.primary-light }};
-  color: {{ site.color.links-white }};
+    background-color: {{ site.color.primary-light }};
+    color: {{ site.color.links-white }};
 }
 
 h1,
