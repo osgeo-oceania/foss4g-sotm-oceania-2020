@@ -12,6 +12,10 @@ html {
     height: 100%;
 }
 
+.header {
+    background-image: {{img/uct-front.jp}};
+}
+
 .page {
     background-color: {{ site.color.primary-light }};
     color: {{ site.color.links-white }};
