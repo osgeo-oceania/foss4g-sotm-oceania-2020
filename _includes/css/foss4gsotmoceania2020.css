@@ -5,7 +5,6 @@ body {
     font-size: 17px;
     color: {{ site.color.text }};
     background-color: {{ site.color.background-light }}
-    background-image: url(https://srcnaut.com/cdn-cgi/image/f=auto,fit=crop,g=0.5x0.5,w=960,h=540,dpr=1,q=50/upload/92/a2/6c/oceania-countries.jpg);
 }
 
 html {
