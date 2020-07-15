@@ -4,8 +4,8 @@ body {
     font-family: 'Barlow',"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 17px;
     color: {{ site.color.text }};
-    background-color: {{ site.color.background-light }}
     background-image: {{"/img/uct-front.jpg"}};
+    background-color: {{ site.color.background-light }}
 }
 
 html {
