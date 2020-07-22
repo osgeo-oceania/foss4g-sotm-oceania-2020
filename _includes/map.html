@@ -26,6 +26,13 @@
           className: "map-icon"
       })}).bindPopup("<h3>(Apia/Samoa Hub)</h3>").addTo(map);
       
+        L.marker([-21.1343401,-175.2018085], {icon: L.icon({
+          iconUrl: "{{ "/img/logo-footer.svg" | prepend: site.baseurl }}",
+          iconSize: [40, 40],
+          iconAnchor: [20, 40],
+          className: "map-icon"
+      })}).bindPopup("<h3>(Nuku'alofa/Tonga Hub)</h3>").addTo(map);
+      
        L.marker([-27.467331464,153.02333324], {icon: L.icon({
           iconUrl: "{{ "/img/logo-footer.svg" | prepend: site.baseurl }}",
           iconSize: [40, 40],
@@ -61,13 +68,6 @@
           className: "map-icon"
       })}).bindPopup("<h3>(Tasmania Hub)</h3>").addTo(map);
       
-      L.marker([-21.1343401,-175.2018085], {icon: L.icon({
-          iconUrl: "{{ "/img/logo-footer.svg" | prepend: site.baseurl }}",
-          iconSize: [40, 40],
-          iconAnchor: [20, 40],
-          className: "map-icon"
-      })}).bindPopup("<h3>(Nuku'alofa/Tonga Hub)</h3>").addTo(map);
-
     map.scrollWheelZoom.disable();
   }, false);
 </script>
