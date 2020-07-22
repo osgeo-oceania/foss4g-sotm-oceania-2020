@@ -6,7 +6,7 @@
 
 <script>
   document.addEventListener('DOMContentLoaded', function() {
-    var map = L.map('map').setView([-18,178], 2);
+    var map = L.map('map').setView([-18,178], 3);
     L.tileLayer('{{ site.map_tiles.url}}', {
       attribution: '{{ site.map_tiles.attribution }}',
       maxZoom: {{ site.map_tiles.maxZoom}}
@@ -14,11 +14,60 @@
 
     L.marker([-18.142,178.4418], {icon: L.icon({
           iconUrl: "{{ "/img/logo-footer.svg" | prepend: site.baseurl }}",
-          iconSize: [40, 40],
-          iconAnchor: [20, 40],
+          iconSize: [20, 20],
+          iconAnchor: [10, 20],
           className: "map-icon"
-      })}).bindPopup("<h3>(formerly planned) Main Conference Venue</h3>").addTo(map);
-
+      })}).bindPopup("<h3>(Fiji Hub)</h3>").addTo(map);
+      
+      L.marker([-13.8343691,-171.7692793], {icon: L.icon({
+          iconUrl: "{{ "/img/logo-footer.svg" | prepend: site.baseurl }}",
+          iconSize: [20, 20],
+          iconAnchor: [10, 20],
+          className: "map-icon"
+      })}).bindPopup("<h3>(Apia/Samoa Hub)</h3>").addTo(map);
+      
+        L.marker([-21.1343401,-175.2018085], {icon: L.icon({
+          iconUrl: "{{ "/img/logo-footer.svg" | prepend: site.baseurl }}",
+         iconSize: [20, 20],
+          iconAnchor: [10, 20],
+          className: "map-icon"
+      })}).bindPopup("<h3>(Nuku'alofa/Tonga Hub)</h3>").addTo(map);
+      
+       L.marker([-27.467331464,153.02333324], {icon: L.icon({
+          iconUrl: "{{ "/img/logo-footer.svg" | prepend: site.baseurl }}",
+          iconSize: [20, 20],
+          iconAnchor: [10, 20],
+          className: "map-icon"
+      })}).bindPopup("<h3>(Brisbane Hub)</h3>").addTo(map);
+      
+      L.marker([-31.95224,115.8614], {icon: L.icon({
+          iconUrl: "{{ "/img/logo-footer.svg" | prepend: site.baseurl }}",
+          iconSize: [20, 20],
+          iconAnchor: [10, 20],
+          className: "map-icon"
+      })}).bindPopup("<h3>(Perth Hub)</h3>").addTo(map);
+      
+       L.marker([-35.28346,149.12807], {icon: L.icon({
+          iconUrl: "{{ "/img/logo-footer.svg" | prepend: site.baseurl }}",
+         iconSize: [20, 20],
+          iconAnchor: [10, 20],
+          className: "map-icon"
+      })}).bindPopup("<h3>(Canberra Hub)</h3>").addTo(map);
+            
+       L.marker([-41.28664,174.77557], {icon: L.icon({
+          iconUrl: "{{ "/img/logo-footer.svg" | prepend: site.baseurl }}",
+         iconSize: [20, 20],
+          iconAnchor: [10, 20],
+          className: "map-icon"
+      })}).bindPopup("<h3>(Wellington Hub)</h3>").addTo(map);
+      
+      L.marker([-42.87936,147.32941], {icon: L.icon({
+          iconUrl: "{{ "/img/logo-footer.svg" | prepend: site.baseurl }}",
+          iconSize: [20, 20],
+          iconAnchor: [10, 20],
+          className: "map-icon"
+      })}).bindPopup("<h3>(Tasmania Hub)</h3>").addTo(map);
+      
     map.scrollWheelZoom.disable();
   }, false);
 </script>
