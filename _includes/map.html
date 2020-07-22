@@ -47,8 +47,13 @@
           className: "map-icon"
       })}).bindPopup("<h3>(Perth Hub)</h3>").addTo(map);
       
-      
-      
+       L.marker([-35.28346,149.12807], {icon: L.icon({
+          iconUrl: "{{ "/img/logo-footer.svg" | prepend: site.baseurl }}",
+          iconSize: [40, 40],
+          iconAnchor: [20, 40],
+          className: "map-icon"
+      })}).bindPopup("<h3>(Canberra Hub)</h3>").addTo(map);
+            
        L.marker([-41.28664,174.77557], {icon: L.icon({
           iconUrl: "{{ "/img/logo-footer.svg" | prepend: site.baseurl }}",
           iconSize: [40, 40],
