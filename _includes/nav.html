@@ -54,19 +54,40 @@
 
                     <!--<li>
                         <a class="{% if page.url contains '/accommodation' %}active{% endif %}" href="{{site.baseurl}}/accommodation/">Accommodation</a>
-                    </li>-->
+                    </li>
                     <li>
                       {% if page.role == 'index' %}
                         <a class="page-scroll" href="#newsletter">Newsletter</a>
                       {% else %}
                         <a class="" href="{{site.baseurl}}/#newsletter">Newsletter</a>
                       {% endif %}
+                    </li>  -->
+		    <li>
+                      {% if page.role == 'index' %}
+                        <a class="page-scroll" href="#abstracts">Abstracts</a>
+                      {% else %}
+                        <a class="" href="{{site.baseurl}}/#abstracts">Abstracts</a>
+                      {% endif %}
                     </li>
+		    <li>
+                      {% if page.role == 'index' %}
+                        <a class="page-scroll" href="#presentations">Presentations</a>
+                      {% else %}
+                        <a class="" href="{{site.baseurl}}/#presentations">Presentations</a>
+                      {% endif %}
+                    </li>			
                     <li>
                       {% if page.role == 'index' %}
                         <a class="page-scroll" href="#sponsors">Sponsors</a>
                       {% else %}
                         <a class="" href="{{site.baseurl}}/#sponsors">Sponsors</a>
+                      {% endif %}
+                    </li>
+		    <li>
+                      {% if page.role == 'index' %}
+                        <a class="page-scroll" href="#codeofconduct">Code of Conduct</a>
+                      {% else %}
+                        <a class="" href="{{site.baseurl}}/#codeofconduct">Code of Conduct</a>
                       {% endif %}
                     </li>
                     <!--<li>
