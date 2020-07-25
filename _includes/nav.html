@@ -84,11 +84,7 @@
                       {% endif %}
                     </li>
 		    <li>
-                      {% if page.role == 'index' %}
-                        <a class="page-scroll" href="#codeofconduct">Code of Conduct</a>
-                      {% else %}
-                        <a class="" href="{{site.baseurl}}/#codeofconduct">Code of Conduct</a>
-                      {% endif %}
+		       <a class="{% if page.url contains '/codeofconduct' %}active{% endif %}" href="{{site.baseurl}}/codeofconduct/">Code of Conduct</a>
                     </li>
                     <!--<li>
                         <a class="{% if page.url contains '/attending' %}active{% endif %}" href="{{site.baseurl}}/attending/">Attending</a>
