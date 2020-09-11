@@ -6,7 +6,7 @@
 
 <script>
   document.addEventListener('DOMContentLoaded', function() {
-    var map = L.map('map').setView([-18,178], 4);
+    var map = L.map('map').setView([-18,178], 1);
     L.tileLayer('{{ site.map_tiles.url}}', {
       attribution: '{{ site.map_tiles.attribution }}',
       maxZoom: {{ site.map_tiles.maxZoom}}
