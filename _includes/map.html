@@ -19,12 +19,21 @@
           className: "map-icon"
       })}).bindPopup("<h3>(Hobard, Australia Hub)</h3>").addTo(map);
       
-        L.marker([-36.86667,174.76667], {icon: L.icon({
+     L.marker([-36.86667,174.76667], {icon: L.icon({
           iconUrl: "{{ "/img/logo-footer.svg" | prepend: site.baseurl }}",
           iconSize: [20, 20],
           iconAnchor: [10, 20],
           className: "map-icon"
       })}).bindPopup("<h3>(Auckland, New Zealand Hub)</h3>").addTo(map);
+      
+      L.marker(-31.95224,115.8614], {icon: L.icon({
+          iconUrl: "{{ "/img/logo-footer.svg" | prepend: site.baseurl }}",
+          iconSize: [20, 20],
+          iconAnchor: [10, 20],
+          className: "map-icon"
+      })}).bindPopup("<h3>(Perth, Australia Hub)</h3>").addTo(map);
+      
+      
       
       
       
