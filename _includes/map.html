@@ -12,54 +12,13 @@
       maxZoom: {{ site.map_tiles.maxZoom}}
     }).addTo(map);
 
-    L.marker([-18.142,178.4418], {icon: L.icon({
+     L.marker([-33.95771,18.46102], {icon: L.icon({
           iconUrl: "{{ "/img/logo-footer.svg" | prepend: site.baseurl }}",
-          iconSize: [20, 20],
-          iconAnchor: [10, 20],
+          iconSize: [40, 40],
+          iconAnchor: [20, 40],
           className: "map-icon"
-      })}).bindPopup("<h3>(Suva, Fiji Hub)</h3>").addTo(map);
+        })}).bindPopup("<h3>(formerly planned) Main Conference Venue</h3><p>Snape Building<br>(Upper Campus),<br>University of the South Pacific (main) campus</em>.</p>").addTo(map);  
       
-      L.marker([-13.83333,187.86666], {icon: L.icon({
-          iconUrl: "{{ "/img/logo-footer.svg" | prepend: site.baseurl }}",
-          iconSize: [20, 20],
-          iconAnchor: [10, 20],
-          className: "map-icon"
-      })}).bindPopup("<h3>(Apia, Samoa Hub)</h3>").addTo(map);
-      
-        L.marker([-21.233,159.783], {icon: L.icon({   
-          iconUrl: "{{ "/img/logo-footer.svg" | prepend: site.baseurl }}",
-         iconSize: [20, 20],
-          iconAnchor: [10, 20],
-          className: "map-icon"
-      })}).bindPopup("<h3>(Rarotonga, Cook Islands Hub)</h3>").addTo(map);
-      
-       L.marker([-27.467331464,153.02333324], {icon: L.icon({
-          iconUrl: "{{ "/img/logo-footer.svg" | prepend: site.baseurl }}",
-          iconSize: [20, 20],
-          iconAnchor: [10, 20],
-          className: "map-icon"
-      })}).bindPopup("<h3>(Brisbane, Australia Hub)</h3>").addTo(map);
-      
-      L.marker([-31.95224,115.8614], {icon: L.icon({
-          iconUrl: "{{ "/img/logo-footer.svg" | prepend: site.baseurl }}",
-          iconSize: [20, 20],
-          iconAnchor: [10, 20],
-          className: "map-icon"
-      })}).bindPopup("<h3>(Perth, Australia Hub)</h3>").addTo(map);
-      
-       L.marker([-35.28346,149.12807], {icon: L.icon({
-          iconUrl: "{{ "/img/logo-footer.svg" | prepend: site.baseurl }}",
-         iconSize: [20, 20],
-          iconAnchor: [10, 20],
-          className: "map-icon"
-      })}).bindPopup("<h3>(Canberra, Australia Hub)</h3>").addTo(map);
-            
-       L.marker([-41.28664,174.77557], {icon: L.icon({
-          iconUrl: "{{ "/img/logo-footer.svg" | prepend: site.baseurl }}",
-         iconSize: [20, 20],
-          iconAnchor: [10, 20],
-          className: "map-icon"
-      })}).bindPopup("<h3>(Wellington, New Zealand Hub)</h3>").addTo(map);
       
       
     map.scrollWheelZoom.disable();
