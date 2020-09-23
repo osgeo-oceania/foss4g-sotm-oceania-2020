@@ -41,6 +41,7 @@ Draft schedule
 | 1530 | Afternoon Tea |
 | 1700 | Streaming End  |
 | 1705 | Closing Remarks, Thanks |
+| 1800 | After conference social event - Venue TBC |
 
 # Contact Information
 
