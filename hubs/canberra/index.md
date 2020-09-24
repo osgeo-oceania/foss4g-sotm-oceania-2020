@@ -55,13 +55,6 @@ This is a section for contact information.
 # Sponsors
 
 <p>We wouldn't be able to make any of this happen with our wonderful sponsors.</p>
-<h3 class="block-title">Conference Host</h3>
-        <div class="logos-wrapper">
-            <div class="card border-info mb-3 sponsor-card">
-                <div class="card-body">
-                    <a target="_blank" rel="noopener noreferrer" title="Geoscience Australia" href="https://www.ga.gov.au/">
-                        <img src="https://www.ga.gov.au/__data/assets/image/0013/16510/ga-logo.jpg" />
-                    </a>
-                </div>
-            </div>
-        </div>
+## Conference Host
+### [Geoscience Australia](https://www.ga.gov.au)
+![alt text](https://www.ga.gov.au/__data/assets/image/0013/16510/ga-logo.jpg "Geoscience Australia Logo")
