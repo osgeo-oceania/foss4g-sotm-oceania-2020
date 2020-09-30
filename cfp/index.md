@@ -32,4 +32,4 @@ For this year's conference, the scheduling of each presentation will be managed 
 Follow the link below to submit your name and presentation details.
 
 Closing date for applications is 14th October, 2020.
-(SUBMIT HERE)[https://docs.google.com/forms/d/e/1FAIpQLSd8aZjlZvP5ArubK0DkcIfEUIZnyxZLy1pNFS0p4YafKSo4LA/viewform]
+[SUBMIT HERE](https://docs.google.com/forms/d/e/1FAIpQLSd8aZjlZvP5ArubK0DkcIfEUIZnyxZLy1pNFS0p4YafKSo4LA/viewform)
