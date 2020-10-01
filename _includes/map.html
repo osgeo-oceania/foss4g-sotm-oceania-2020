@@ -1,8 +1,15 @@
-    <!-- Map Section -->
+<!-- Map Section -->
 <section class="map-container">
-   <p><center>Send Queries To: <a href="mailto:admin@foss4g-oceania.org" class="animate light"><span class="icon mail" aria-hidden="true"></span>&nbsp;admin@foss4g-oceania.org</a></center></p>
-<div id="map"></div>
-
+  <p>
+    <center>
+      Send Queries To:
+      <a href="mailto:admin@foss4g-oceania.org" class="animate light"
+        ><span class="icon mail" aria-hidden="true"></span
+        >&nbsp;admin@foss4g-oceania.org</a
+      >
+    </center>
+  </p>
+  <div id="map"></div>
 </section>
 
 <script>
@@ -19,7 +26,7 @@
           iconAnchor: [10, 20],
           className: "map-icon"
       })}).bindPopup("<h3>(Suva Hub)</h3>").addTo(map);
-      
+
       L.marker([7.07489,171.31748], {icon: L.icon({
           iconUrl: "{{ "/img/logo-footer.svg" | prepend: site.baseurl }}",
           iconSize: [20, 20],
@@ -32,16 +39,16 @@
           iconSize: [20, 20],
           iconAnchor: [10, 20],
           className: "map-icon"
-      })}).bindPopup("<h3>(Apia Hub)</h3>").addTo(map);
+      })}).bindPopup("<h3><a href='/hubs/apia/'>(Apia Hub)</a></h3>").addTo(map);
 
-            
+
       L.marker([1.33008,172.97743], {icon: L.icon({
           iconUrl: "{{ "/img/logo-footer.svg" | prepend: site.baseurl }}",
           iconSize: [20, 20],
           iconAnchor: [10, 20],
           className: "map-icon"
       })}).bindPopup("<h3>(Bairiki Hub)</h3>").addTo(map);
-    
+
       L.marker([-42.87936,147.32941], {icon: L.icon({
           iconUrl: "{{ "/img/logo-footer.svg" | prepend: site.baseurl }}",
          iconSize: [20, 20],
@@ -91,7 +98,7 @@
           className: "map-icon"
       })}).bindPopup("<h3><a href='/hubs/canberra/'>(Canberra Hub)</a></h3>").addTo(map);
 
-       <!-- 
+       <!--
        L.marker([-27.467331464,153.02333324], {icon: L.icon({
           iconUrl: "{{ "/img/logo-footer.svg" | prepend: site.baseurl }}",
          iconSize: [20, 20],
@@ -106,7 +113,7 @@
           iconAnchor: [10, 20],
           className: "map-icon"
       })}).bindPopup("<h3>(Rarotonga Hub)</h3>").addTo(map);
-      
+
 
     map.scrollWheelZoom.enable();
   }, false);

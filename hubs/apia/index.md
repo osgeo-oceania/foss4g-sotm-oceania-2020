@@ -2,7 +2,7 @@
 layout: page-with-toc
 title: Apia Hub FOSS4G SotM Oceania 2020
 titlecontent: ""
-headings: "overview,where,when,call-for-presentations,contact-information"
+headings: "overview,call-for-presentations,schedule,conference-host,contact-information"
 ---
 
 # Overview
@@ -11,21 +11,16 @@ FOSS4G SotM Oceania Samoa 2020 is taking place in person this November.
 We're creating an exciting program for you — the FOSS4G and OpenStreetMap community, together with the GIS community in Samoa.
 Here's all you need to know to attend. Keep reading to learn about what to expect at the conference, venue information, and how to get involved. Watch this space for information updates.
 
-# Where
+## Where
 
 Pacific Climate Change Centre (PCCC)
 Secretariat of the Pacific Regional Environment Programme - SPREP Headquarters
 Apia
 Samoa
 
-# When?
+## When?
 
 November 20, 2020
-
-# FOSS4G SotM Oceania? Here's what it means.
-
-So let's break it down — 'Free and Open Source Software for Geospatial' or FOSS4G if you're a fan of efficiency (we are) is the name given to the conferences of the Open Source Geospatial Foundation (OSGeo). OSGeo is a non-profit with a mission to foster and promote the adoption of open source geospatial technology. All of this is done within the broader context of open source software philosophy and participatory community driven development.
-'State of the Map' or SotM is the conference of the OpenStreetMap Foundation (OSMF) which supports the development of a free and open editable world map. This takes the form of the community driven OpenStreetMap project.
 
 # What can I expect?
 
@@ -43,7 +38,7 @@ You will learn about cutting edge tech and what's on the horizon, meet the exper
 
 Samoa has been fortunate to stay COVID-free, however we will make sure the conference is a safe and clean space in line with the latest guidance.
 
-## Call for presentations
+# Call for presentations
 
 We want you to share your fascinating stories about open source geospatial, open data, and OpenStreetMap in Samoa. We are looking for a diverse range of presenters including all genders and people from a variety of backgrounds. To achieve this goal, we need you to accept the challenge and put yourself forward, the community can't wait to hear what you have to say!
 
