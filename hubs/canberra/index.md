@@ -58,7 +58,7 @@ Tickets are free, with a suggested donation of $50. All ticket proceeds will ben
 
 # Sponsors
 
-We wouldn't be able to make any of this happen with our wonderful sponsors.
+We wouldn't be able to make any of this happen without our wonderful sponsors.
 
 Contact [the hub manager](mailto:jonahsullivan79@gmail.com) if your organisation would like to become a sponsor.
 
