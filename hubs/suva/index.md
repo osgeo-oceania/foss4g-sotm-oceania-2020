@@ -8,9 +8,13 @@ headings: "overview,call-for-presentations,contact-information"
 
 # Overview
 
-The FOSS4G SotM Oceania 2020 will be hosted at the University of the South Pacific- Japan- Pacific ICT Centre.
-
-Be part of the first ever online conference for the regional FOSS4G Oceania conference, and we will see you on the 20th of November. 
+The much awaited FOSS4G Oceania Conference is coming to Fiji as a hybrid conference event. At the Fiji Hub,
+    we are excited to open the doors to you and share the power of open source geospatial technology and data. 
+    Your local hub managers are excited to bring the best, the interesting and those who dare to make a difference 
+    using the powers of open source right here at the USP-Japan ICT Auditorium on the 20th of November. Due to current
+    covid restrictions, only a limited amount of tickets will be up for grabs.
+    
+<a href="https://ibb.co/WVRbD0k"><img src="https://i.ibb.co/XYGhyD7/FIJI-HUB.png" alt="FIJI-HUB" class="center" border="0"></a>
 
 ### FOSS4G SotM Oceania - Yeah, we know that's a mouthful. Here's what it means.
 
@@ -38,10 +42,12 @@ This is your chance to connect with and hear from developers creating the next g
     technology. Get ahead
     of the curve and find out what's on the horizon. FOSS4G and State of the Map events attract a very diverse
     audience on the global stage – so strap in for amazing content.
+    
 ### Why should I go?
 You'll learn about cutting edge tech and what's on the horizon, meet the experts and talk to them, and learn new
     skills. Get the chance to hear what others like yourself are doing and producing with their open source
     geospatial tools. Along the way you'll meet up with old friends, make new ones, and share your experiences.
+    
 ### COVID safety
 <p>We're monitoring the COVID situation closely and will make sure the conference is a safe and clean space in line
     with the latest guidance.</p>
@@ -54,11 +60,14 @@ You'll learn about cutting edge tech and what's on the horizon, meet the experts
 
 [Email the hub manager here](mailto:carrol.mchan@gmail.com)
 
-# Sponsors
-
-We wouldn't be able to make any of this happen with our wonderful sponsors.
 
 ## Conference Host
+We are excited to have the University of the South Pacific as a venue sponsor. Thanks to their generosity we will be hosting
+    the event at the USP-Japan ICT Auditorium at the Laucala Bay Campus, Suva, Fiji. 
+
+We are also on the lookout for more sponsors for the day, if you feel you or your organisation would like to sponsor the 
+    event do not hesitate to contact us.
 
 ### [The University of the South Pacific](https://www.usp.ac.fj)
+
 ![alt text](https://www.usp.ac.fj/fileadmin/main_uni_template/newwebsite/HomePage-New/Images/Logo.jpg)
