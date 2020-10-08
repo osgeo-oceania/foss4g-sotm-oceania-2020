@@ -39,9 +39,8 @@ This conference is aimed at a broad swath of the community – developers, users
     academics, business, government and anyone interested in open source geospatial software and the OpenStreetMap
     project.
 This is your chance to connect with and hear from developers creating the next generation of geospatial
-    technology. Get ahead
-    of the curve and find out what's on the horizon. FOSS4G and State of the Map events attract a very diverse
-    audience on the global stage – so strap in for amazing content.
+    technology. Get ahead of the curve and find out what's on the horizon. FOSS4G and State of the Map events attract
+    a very diverse audience on the global stage – so strap in for amazing content.
     
 ### Why should I go?
 You'll learn about cutting edge tech and what's on the horizon, meet the experts and talk to them, and learn new
