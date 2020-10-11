@@ -42,21 +42,19 @@ We are monitoring the COVID situation closely and will make sure the conference 
 
 # Call for Presentations
 
-The Call for Presentations is open now until XXX  
-See details and submit your presentation [here] need to insert hyperlink here.
+The Call for Presentations is open now until the 14th of Ocrober.  
+See details and [submit your presentation here](https://docs.google.com/forms/d/e/1FAIpQLSd8aZjlZvP5ArubK0DkcIfEUIZnyxZLy1pNFS0p4YafKSo4LA/viewform).
 
 # Registrations
 
-There is no cost to attend the event but you are asked to consider giving a donation. All proceeds will benefit OSGeo Oceania, the regional OSGeo organisation.  
-We need you to register your attendance here (insert hyperlink) as numbers are strictly limited to a maximum of 40 (because of COVID social distancing rules).
-Please indicate if you have special dietary requirements at the same time
+There is no cost to attend the event but you are asked to consider giving a donation. All proceeds will go towards supporting OSGeo Oceania, the regional OSGeo organisation.  
+We need you to register your attendance as numbers are strictly limited to a maximum of 40 (because of COVID social distancing rules).
+Please indicate if you have special dietary requirements at the same time. Registration will be *coming soon*.
 
 # Contact Information
 
-Email the Hub Manager here: <dawn_hendrick@hotmail.com>
+Email the Hub Manager, Dawn, here: [dawn_hendrick@hotmail.com](mailto:dawn_hendrick@hotmail.com).
 
-# Sponsors
+# Sponsors and Supporters
 
-We wouldn't be able to make any of this happen without our wonderful sponsors.
-
-Insert logos here for Mineral Resources Tasmania, Esk Mapping and TafeNSW
+We wouldn't be able to make any of this happen without our wonderful sponsors (TBA) and with the support of Mineral Resources Tasmania and TafeNSW.
