@@ -14,7 +14,7 @@ The much awaited FOSS4G Oceania Conference is coming to Fiji as a hybrid confere
     using the powers of open source right here at the USP-Japan ICT Auditorium on the 20th of November. Due to current
     covid restrictions, only a limited amount of tickets will be up for grabs.
     
-![Fiji Hub Map](https://github.com/nemaiakoto/foss4g-sotm-oceania-2020/blob/master/img/fiji%20hub%20pp.png)
+![Fiji Hub Map](/img/fiji%20hub%20pp.png)
 
 ### FOSS4G SotM Oceania - Yeah, we know that's a mouthful. Here's what it means.
 
