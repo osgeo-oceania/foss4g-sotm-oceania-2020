@@ -2,7 +2,7 @@
 layout: page-with-toc
 title: Hobart Hub FOSS4G SotM Oceania 2020
 titlecontent: ""
-headings: "overview,attend,call-for-presentations,registrations,contact-information,sponsors"
+headings: "overview,attend,draft-schedule,international-keynote-presentations,registrations,contact-information,sponsors"
 ---
 
 
@@ -40,10 +40,30 @@ You will learn about cutting edge technologies and what is on the horizon, meet 
 ## COVID safety
 We are monitoring the COVID situation closely and will make sure the conference is a safe and clean space in line with the latest guidance.
 
-# Call for Presentations
+# Draft Schedule
 
-The Call for Presentations is open now until the 14th of Ocrober.  
-See details and [submit your presentation here](https://docs.google.com/forms/d/e/1FAIpQLSd8aZjlZvP5ArubK0DkcIfEUIZnyxZLy1pNFS0p4YafKSo4LA/viewform).
+We have a Draft schedule preapred for the day! All times are in AEST
+| Time          | Event        |
+| :---------    | :----------  |
+| 11:00 - 12:00 | Coffee/Tea & scones (provided), networking, and preparation/setup |
+| 12:00 - 14:00 | International presentations from throughout Oceania |
+| 14:00 - 14:45 | Lunch (provided) and networking |
+| 14:45 - 15:45 | 3 x 20 minute F2F presentations on local projects |
+| 15:45 - 16:00 | Final discussion and wrap-up |
+
+# International Keynote Presentations
+
+The following presentations have been confirmed  
+
+| Name            | Topic                                       |
+| :-------------- | :------------------------------------------ |
+| Tom MacWright   | Ethics in Geo                               |
+| Nathan Woodrow  | Communities: FOSS4G, Board gaming, painting |
+| Litea Biukoto   | Climate & Disaster Resilient Development    |
+| Grayson Cooke   | Aesthetics of map data                      |
+| Markus Mannheim | Journalism with map data                    |
+
+If you would like to give one of the local F2F presentations please get in touch with the Hub Manager here: [dawn_hendrick@hotmail.com](mailto:dawn_hendrick@hotmail.com).
 
 # Registrations
 
