@@ -2,7 +2,7 @@
 layout: page-with-toc
 title: Canberra Hub FOSS4G SotM Oceania 2020
 titlecontent: ""
-headings: "overview,call-for-presentations,tickets,contact-information,sponsors"
+headings: "overview,tickets,contact-information,sponsors"
 ---
 
 
@@ -41,10 +41,6 @@ You'll learn about cutting edge tech and what's on the horizon, meet the experts
 We're monitoring the COVID situation closely and will make sure the conference is a safe and clean space in line with the latest guidance.
 
 The number of tickets is limited by the size of the room and social-distancing guidelines. Hopefully these guidelines will be revised an allow us to increase the number of tickets available.
-
-# Call for Presentations
-
-[Click here to register your interest](https://docs.google.com/forms/d/e/1FAIpQLSd8aZjlZvP5ArubK0DkcIfEUIZnyxZLy1pNFS0p4YafKSo4LA/viewform)
 
 # Tickets
 
