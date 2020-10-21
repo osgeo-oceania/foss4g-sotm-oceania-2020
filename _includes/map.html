@@ -75,8 +75,21 @@
           iconAnchor: [10, 20],
           className: "map-icon"
       })}).bindPopup("<h3><a href='/hubs/melbourne/'>(Melbourne Hub)</a></h3>").addTo(map);
-
     
+     L.marker([-31.95224,115.8614], {icon: L.icon({
+          iconUrl: "{{ "/img/logo-footer.svg" | prepend: site.baseurl }}",
+         iconSize: [20, 20],
+          iconAnchor: [10, 20],
+          className: "map-icon"
+      })}).bindPopup("<h3><a href='/hubs/perth/'>Perth Hub</a></h3>").addTo(map);
+
+       L.marker([-21.2357745,199.9999595], {icon: L.icon({
+          iconUrl: "{{ "/img/logo-footer.svg" | prepend: site.baseurl }}",
+         iconSize: [20, 20],
+          iconAnchor: [10, 20],
+          className: "map-icon"
+      })}).bindPopup("<h3>(Rarotonga Hub)</h3>").addTo(map);
+
     map.scrollWheelZoom.enable();
   }, false);
 </script>
