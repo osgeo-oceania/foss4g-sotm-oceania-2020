@@ -35,7 +35,8 @@ ferry terminal nearby. From there it is a 10 minute walk from the ferry terminal
 <div id="_aklhub_location_map" style="width:100%; height: 400px; border: 1px solid"></div>
 
 <script>
-var map = L.map('_aklhub_location_map').setView([-36.8305676,174.7924052], 16);
+var map = L.map('_aklhub_location_map', { scrollWheelZoom: false })
+  .setView([-36.8305676,174.7924052], 16);
 
 L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
@@ -82,7 +83,8 @@ Your ticket includes one drink at the bar and finger food.
 <div id="_aklhub_afterevent_map" style="width:100%; height: 400px; border: 1px solid"></div>
 
 <script>
-var map = L.map('_aklhub_afterevent_map').setView([-36.8299969,174.797735], 16);
+var map = L.map('_aklhub_afterevent_map', { scrollWheelZoom: false })
+  .setView([-36.8299969,174.797735], 16);
 
 L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
