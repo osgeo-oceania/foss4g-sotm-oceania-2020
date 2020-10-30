@@ -47,7 +47,7 @@ We are monitoring the COVID situation closely and will make sure the conference 
 
 ## Draft Schedule
 
-We have a Draft schedule preapred for the day! All times are in AEST
+We have a Draft schedule prepared for the day! All times are in AEST
 
 | Time          | Event        |
 | :---------    | :----------  |
@@ -75,7 +75,10 @@ If you would like to give one of the local F2F presentations please get in touch
 
 There is no cost to attend the event but you are asked to consider giving a donation. All proceeds will go towards supporting OSGeo Oceania, the regional OSGeo organisation.  
 We need you to register your attendance as numbers are strictly limited to a maximum of 40 (because of COVID social distancing rules).
-Please indicate if you have special dietary requirements at the same time. Registration will be *coming soon*.
+
+Please indicate if you have special dietary requirements at the same time.
+
+[**REGISTER HERE!**](https://ti.to/foss4g-oceania/foss4g-sotm-oceania-2020-hobart-hub)
 
 ## Contact Information
 
