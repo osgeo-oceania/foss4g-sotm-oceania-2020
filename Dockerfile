@@ -19,4 +19,4 @@ RUN gem install bundler -v 2.1.4 \
 COPY . .
 
 # Run jekyll serve
-CMD ["bundle","exec","jekyll","serve","--host=0.0.0.0","-wl"]
+CMD ["bundle","exec","jekyll","serve","--host=0.0.0.0","-wl","--force_polling"]
