@@ -19,7 +19,7 @@ Here is all you need to know to attend. Keep reading to learn about:
 
 Watch this space for information updates.
 
-## FOSS4G SotM Oceania - may sound complicated. So here is what it means.
+## FOSS4G SotM Oceania - may sound complicated. So here is what it means
 
 'Free and Open Source Software for Geospatial' or FOSS4G if you are a fan of efficiency (we are) is the name given to the conferences of the Open Source Geospatial Foundation (OSGeo). OSGeo is a non-profit organisation with a mission to foster and promote the adoption of open source geospatial technology. All of this is done within the broader context of open source software philosophy and participatory community driven development.
 
@@ -30,6 +30,10 @@ Watch this space for information updates.
 ### What can I expect
 
 FOSS4G SotM Oceania belongs to you! It's the chance to come together as a community to share knowledge and experience through conference sessions, technical workshops, and social events. The topics will be wide ranging and the attendees will be users, creators, business, academics, community mappers and government.
+
+### Where is it
+
+The Hobart Hub will be at MRT, 30 Gordons Hill Rd, Rosny Park, Tasmania, Australia 7018.
 
 ### Who is going to be there
 
@@ -57,6 +61,12 @@ We have a Draft schedule prepared for the day! All times are in AEST
 | 14:45 - 15:45 | 3 x 20 minute F2F presentations on local projects |
 | 15:45 - 16:00 | Final discussion and wrap-up |
 
+Our local presenters are:
+
+* **Tim Bendall** from Esk Mapping, talking about Wrangling Webapps with Wicked Walls of Wiring
+* **Claire Kain** from MRT, talking about Tsunami hazard assessment for eastern Tasmania: A case study of modelling and data analysis using FOSS software
+* **Nick Forbes-Smith** from CSIRO talking about Exploring open statistical data with TerriaJS — integrating SDMX with the open geospatial web
+
 ## International Keynote Presentations
 
 See the [programme page](https://2020.foss4g-oceania.org/programme/) for information on who is presenting.
@@ -78,4 +88,4 @@ Email the Hub Manager, Dawn, here: [dawn_hendrick@hotmail.com](mailto:dawn_hendr
 
 ## Sponsors and Supporters
 
-We wouldn't be able to make any of this happen without our wonderful sponsors (TBA) and with the support of Mineral Resources Tasmania and TafeNSW.
+We wouldn't be able to make any of this happen without our wonderful sponsors and with the support of Mineral Resources Tasmania and TafeNSW.
