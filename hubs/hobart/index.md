@@ -66,6 +66,7 @@ Our local presenters are:
 * **Tim Bendall** from Esk Mapping, talking about Wrangling Webapps with Wicked Walls of Wiring
 * **Claire Kain** from MRT, talking about Tsunami hazard assessment for eastern Tasmania: A case study of modelling and data analysis using FOSS software
 * **Nick Forbes-Smith** from CSIRO talking about Exploring open statistical data with TerriaJS — integrating SDMX with the open geospatial web
+* **Emma Krantz** from Data61, talking about 3D Data Formats: A Field Guide for Geospatial Folks
 
 ## International Keynote Presentations
 
