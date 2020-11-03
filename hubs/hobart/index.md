@@ -88,4 +88,10 @@ Email the Hub Manager, Dawn, here: [dawn_hendrick@hotmail.com](mailto:dawn_hendr
 
 ## Sponsors and Supporters
 
-We wouldn't be able to make any of this happen without our wonderful sponsors and with the support of Mineral Resources Tasmania and TafeNSW.
+We wouldn't be able to make any of this happen without our wonderful sponsors including:
+
+## [Esk Mapping](https://www.eskmapping.com.au/)
+
+![Esk Mapping](https://www.eskmapping.com.au/assets/images/esk-mapping-gis-logo.png 'Esk Mapping')
+
+And with the support of Mineral Resources Tasmania and TafeNSW.
