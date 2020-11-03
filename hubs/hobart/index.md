@@ -27,11 +27,11 @@ Watch this space for information updates.
 
 ## Attend
 
-### What can I expect?
+### What can I expect
 
 FOSS4G SotM Oceania belongs to you! It's the chance to come together as a community to share knowledge and experience through conference sessions, technical workshops, and social events. The topics will be wide ranging and the attendees will be users, creators, business, academics, community mappers and government.
 
-### Who is going to be there?
+### Who is going to be there
 
 This conference is aimed at a broad swath of the community – developers, users, contributors, community mappers, academics, business, government and anyone interested in open source geospatial software and the OpenStreetMap project.
 
@@ -59,15 +59,7 @@ We have a Draft schedule prepared for the day! All times are in AEST
 
 ## International Keynote Presentations
 
-The following presentations have been confirmed  
-
-| Name            | Topic                                       |
-| :-------------- | :------------------------------------------ |
-| Tom MacWright   | Ethics in Geo                               |
-| Nathan Woodrow  | Communities: FOSS4G, Board gaming, painting |
-| Litea Biukoto   | Climate & Disaster Resilient Development    |
-| Grayson Cooke   | Aesthetics of map data                      |
-| Markus Mannheim | Journalism with map data                    |
+See the [programme page](https://2020.foss4g-oceania.org/programme/) for information on who is presenting.
 
 If you would like to give one of the local F2F presentations please get in touch with the Hub Manager here: [dawn_hendrick@hotmail.com](mailto:dawn_hendrick@hotmail.com).
 
