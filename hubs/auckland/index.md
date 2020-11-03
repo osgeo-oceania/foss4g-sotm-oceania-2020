@@ -185,7 +185,7 @@ The following talks will be held in person at the Auckland Hub.
 
 # Map Showcase
 
-Have you ever wanted to have your maps professionally printed in large scale? We are very excited to announce our Map Showcase! Submit your map PDF by the end of _Friday 13th November_ (one week before the conference) and we will print and display it at the conference.
+Have you ever wanted to have your maps professionally printed in large scale? We are very excited to announce our Map Showcase! Submit your map PDF by the end of _Friday 13th November_ (one week before the conference) and we will print and display it at the conference. Many thanks to NZDF for making this possible.
 
 ## Important Terms & Conditions
 
