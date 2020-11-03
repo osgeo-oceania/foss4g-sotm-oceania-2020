@@ -19,7 +19,7 @@ Here is all you need to know to attend. Keep reading to learn about:
 
 Watch this space for information updates.
 
-## FOSS4G SotM Oceania - may sound complicated. So here is what it means.
+## FOSS4G SotM Oceania - may sound complicated. So here is what it means
 
 'Free and Open Source Software for Geospatial' or FOSS4G if you are a fan of efficiency (we are) is the name given to the conferences of the Open Source Geospatial Foundation (OSGeo). OSGeo is a non-profit organisation with a mission to foster and promote the adoption of open source geospatial technology. All of this is done within the broader context of open source software philosophy and participatory community driven development.
 
@@ -27,11 +27,15 @@ Watch this space for information updates.
 
 ## Attend
 
-### What can I expect?
+### What can I expect
 
 FOSS4G SotM Oceania belongs to you! It's the chance to come together as a community to share knowledge and experience through conference sessions, technical workshops, and social events. The topics will be wide ranging and the attendees will be users, creators, business, academics, community mappers and government.
 
-### Who is going to be there?
+### Where is it
+
+The Hobart Hub will be at MRT, 30 Gordons Hill Rd, Rosny Park, Tasmania, Australia 7018.
+
+### Who is going to be there
 
 This conference is aimed at a broad swath of the community – developers, users, contributors, community mappers, academics, business, government and anyone interested in open source geospatial software and the OpenStreetMap project.
 
@@ -47,7 +51,7 @@ We are monitoring the COVID situation closely and will make sure the conference 
 
 ## Draft Schedule
 
-We have a Draft schedule preapred for the day! All times are in AEST
+We have a Draft schedule prepared for the day! All times are in AEST
 
 | Time          | Event        |
 | :---------    | :----------  |
@@ -57,17 +61,16 @@ We have a Draft schedule preapred for the day! All times are in AEST
 | 14:45 - 15:45 | 3 x 20 minute F2F presentations on local projects |
 | 15:45 - 16:00 | Final discussion and wrap-up |
 
+Our local presenters are:
+
+* **Tim Bendall** from Esk Mapping, talking about Wrangling Webapps with Wicked Walls of Wiring
+* **Claire Kain** from MRT, talking about Tsunami hazard assessment for eastern Tasmania: A case study of modelling and data analysis using FOSS software
+* **Nick Forbes-Smith** from CSIRO talking about Exploring open statistical data with TerriaJS — integrating SDMX with the open geospatial web
+* **Emma Krantz** from Data61, talking about 3D Data Formats: A Field Guide for Geospatial Folks
+
 ## International Keynote Presentations
 
-The following presentations have been confirmed  
-
-| Name            | Topic                                       |
-| :-------------- | :------------------------------------------ |
-| Tom MacWright   | Ethics in Geo                               |
-| Nathan Woodrow  | Communities: FOSS4G, Board gaming, painting |
-| Litea Biukoto   | Climate & Disaster Resilient Development    |
-| Grayson Cooke   | Aesthetics of map data                      |
-| Markus Mannheim | Journalism with map data                    |
+See the [programme page](https://2020.foss4g-oceania.org/programme/) for information on who is presenting.
 
 If you would like to give one of the local F2F presentations please get in touch with the Hub Manager here: [dawn_hendrick@hotmail.com](mailto:dawn_hendrick@hotmail.com).
 
@@ -75,7 +78,10 @@ If you would like to give one of the local F2F presentations please get in touch
 
 There is no cost to attend the event but you are asked to consider giving a donation. All proceeds will go towards supporting OSGeo Oceania, the regional OSGeo organisation.  
 We need you to register your attendance as numbers are strictly limited to a maximum of 40 (because of COVID social distancing rules).
-Please indicate if you have special dietary requirements at the same time. Registration will be *coming soon*.
+
+Please indicate if you have special dietary requirements at the same time.
+
+[**REGISTER HERE!**](https://ti.to/foss4g-oceania/foss4g-sotm-oceania-2020-hobart-hub)
 
 ## Contact Information
 
@@ -83,4 +89,10 @@ Email the Hub Manager, Dawn, here: [dawn_hendrick@hotmail.com](mailto:dawn_hendr
 
 ## Sponsors and Supporters
 
-We wouldn't be able to make any of this happen without our wonderful sponsors (TBA) and with the support of Mineral Resources Tasmania and TafeNSW.
+We wouldn't be able to make any of this happen without our wonderful sponsors including:
+
+## [Esk Mapping](https://www.eskmapping.com.au/)
+
+![Esk Mapping](https://www.eskmapping.com.au/assets/images/esk-mapping-gis-logo.png 'Esk Mapping')
+
+And with the support of Mineral Resources Tasmania and TafeNSW.
