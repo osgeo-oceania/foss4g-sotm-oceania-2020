@@ -2,7 +2,7 @@
 layout: page-with-toc
 title: Auckland Hub FOSS4G SotM Oceania 2020
 titlecontent: ""
-headings: "overview,attend,location,schedule,after-event,speakers,contact-information,sponsors-and-partners"
+headings: "overview,attend,location,schedule,early-career-spatial-breakfast,after-event,speakers,map-showcase,conference-shirts-and-merchandise,contact-information,sponsors-and-partners"
 ---
 
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
@@ -21,6 +21,8 @@ This years event will be hosted by NZDF at the Devonport Navy Base, a short walk
   * [Purchase Tickets](https://ti.to/foss4g-oceania/2020-auckland-hub/)
 
   * [Code of Conduct](/codeofconduct)
+
+  * [Early Career Spatial Breakfast](#early-career-spatial-breakfast)
 
 # Location
 
@@ -67,11 +69,19 @@ L.marker([-36.8329616,174.7958966]).addTo(map)
 | 11:00 - 12:30 am | <span style="font-weight: 700">Second Session</span><br />4 talks from our [Auckland Hub speaker list](#speakers) |
 | 12:30 noon | Lunch<br><small>Catered lunch, see your ticket for meal selections</small>      |
 |  1:30 - 1:50 pm | <span style="font-weight: 700">Third Session</span><br />1 talk from our [Auckland Hub speaker list](#speakers)   |
-|  2:00 - 4:00 pm | <span style="font-weight: 700">International Streaming Session</span> |
+|  2:00 - 4:00 pm | <span style="font-weight: 700">[International Streaming Session](/programme/)</span><br><small>6 speakers via Oceania-wide video link</small> |
 |  4:00 pm | Afternoon Tea<br><small>Tea & coffee supplied</small>          |
 |  4:20 pm | Map Showcase & Standups |
 |  4:50 - 5:00pm | Closing Remarks        |
 |  5:30 pm onwards | After Event Gathering<br><small>See [below](#after-event) for details</small> |
+
+# Early Career Spatial Breakfast
+
+The Early Career Spatial Breakfast is an opportunity for individuals who are new spatial industry, science & software to meet and network over breakfast, sponsored by OSGeo Oceania.
+
+More details will be provided soon. There are limited spaces available by purchasing the _[Full Ticket + Early Career Spatial Breakfast](https://ti.to/foss4g-oceania/2020-auckland-hub/with/full-price-copy-0fda4ff3-7609-426a-b6e0-d7bc5b1bf0c5)_ ticket type on our [hub ticketing page](https://ti.to/foss4g-oceania/2020-auckland-hub).
+
+The Early Career Spatial Breakfast is made possible by "Good Mojo" funding from OSGeo Oceania.
 
 # After Event
 
@@ -173,6 +183,34 @@ The following talks will be held in person at the Auckland Hub.
   <div class="_akl_speaker_title">Sno: Open Source Data Version Control that Works</div>
 </div>
 
+# Map Showcase
+
+Have you ever wanted to have your maps professionally printed in large scale? We are very excited to announce our Map Showcase! Submit your map PDF by the end of _Friday 13th November_ (one week before the conference) and we will print and display it at the conference.
+
+## Important Terms & Conditions
+
+  * Maps can be up to A0 size and in full colour.
+  * Maps should be exported to PDF and either:
+     - emailed directly to [akl-hub@foss4g-oceania.org](mailto:akl-hub@foss4g-oceania.org) if the size is reasonable,
+     - or a Dropbox, GDrive or some other internet accessible link supplied to the above address.
+     - please include your name and a brief description of the map.
+  * You must [purchase a conference ticket](https://ti.to/foss4g-oceania/2020-auckland-hub/).
+  * You must include appropriate attribution for data sources.
+  * You must only use data sources you have appropriate rights to use for this purpose.
+  * The production of the map should use FOSS (open software and/or open data) to some extent.
+  * You grant us permission to print and display your map, and to use it for promotional purposes (strictly within the scope of organising and running the conference and future archival purposes)
+  * Come prepared to talk briefly about your map.
+  * We have a limited print run capacity. We'll try to get as many printed as possible, but map selections are entirely at the discretion of the organising committee.
+  * Yes, you get to take it home after the conference!
+
+# Conference Shirts and Merchandise
+
+Conference shirts will _not_ be available on the day of the conference. If you would like to purchase conference shirts or other merchandise to celebrate FOSS4G-SotM Oceania 2020 you can purchase directly online:
+
+  * [FOSS4G SotM Oceania 2020 Globe T-shirt](https://www.redbubble.com/i/t-shirt/FOSS4G-SotM-Oceania-2020-Globe-by-OSGeo-Oceania/61302747.WFLAH)
+  * [FOSS4G SotM Oceania 2020 Logo Hoodie](https://www.redbubble.com/i/hoodie/FOSS4G-SotM-Oceania-2020-Logo-by-OSGeo-Oceania/61302650.O16E3)
+
+More options can be found under the [OSGeo Oceania profile](https://www.redbubble.com/people/OSGeo-Oceania/shop).
 
 # Contact Information
 
