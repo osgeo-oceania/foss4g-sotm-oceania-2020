@@ -96,3 +96,5 @@ We wouldn't be able to make any of this happen without our wonderful sponsors in
 ![Esk Mapping](https://www.eskmapping.com.au/assets/images/esk-mapping-gis-logo.png 'Esk Mapping')
 
 And with the support of Mineral Resources Tasmania and TafeNSW.
+
+![Mineral Resources Tsamania](tas_goc_logo.jpg 'Mineral Resources Tasmania')
