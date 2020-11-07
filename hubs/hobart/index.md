@@ -97,4 +97,4 @@ We wouldn't be able to make any of this happen without our wonderful sponsors in
 
 And with the support of Mineral Resources Tasmania and TafeNSW.
 
-![Mineral Resources Tsamania](tas_goc_logo.jpg 'Mineral Resources Tasmania')
+![Mineral Resources Tsamania](tas_gov_logo.jpg 'Mineral Resources Tasmania')
