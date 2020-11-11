@@ -51,14 +51,15 @@ Please specify:
  Two rooms will be available, one for the international keynotes and local presentations, and another for a live connection
  to the Auckland Hub, for attendees to see their presentations if desired.
 
-| 8:30 am | Registration & Coffee | 
+| 8:00 am | Registration & Coffee | 
+| 9:00 am | Conference Opening | 
 | 9:30 - 10:30 am | First Session - local talks | 
 | 10:30 am | Morning Tea (Tea & coffee free from NIWA cafeteria) | 
 | 11:00 - 12:30 am | Second Session - local talks | 
 | 12:30 | Lunch (can be purchased from NIWA staff cafeteria) | 
 | 1:30 - 1:50 pm | Third Session - Lightning talks | 
 | 2:00 - 4:00 pm | International Streaming Session - 6 speakers via Oceania-wide video link | 
-| 4:00 - 4:10 pm | Closing Remarks (Early finish to hopefully escape peak traffic) |
+| 4:00 - 4:10 pm | Closing Remarks (Early finish to hopefully escape peak traffic)
 
 # Presentations 
 (nominal 20 mins)
@@ -71,13 +72,14 @@ Peter King: Visual perception and cartography
 
 David Bowden/Pablo Escobar-Flores/Darren Stevens (NIWA): QGIS in the Ross Sea
 
-Byron Cochrane (OpenWorks): DGGS - partitioning the globe in the 21st century
+Byron Cochrane (OpenWorks): DGGS - partitioning the globe
 
-Andrea Mari/Brent Wood (NIWA): NiSOS: NIWA's spatially enabled video analysis software
+Andrea Mari/Brent Wood (NIWA): NiSOS- NIWA's spatially enabled video analysis software
 
-Wendy Shaw (LINZ): QGIS & PostGIS at NZGB
+Anthony Pengelly: Using R to access and analyse cloud native satellite imagery
 
 (more coming?)
+
 
 # Lightning talks 
 (5-10 mins)
@@ -86,9 +88,14 @@ Simon Planzer (LINZ): LINZ Data Importer
 
 Simon Nitz (WDC): Wanganui Council's Open GIS software stack
 
+Wendy Shaw (LINZ): QGIS & PostGIS at NZGB
+
 Brent Wood (NIWA): Timeseries data management with Postgis and TimescaleDB
 
 Shrividya Ravi: Geospatial network analysis with R: an example with rail infrastructure
+
+David Medyckyj-Scott (Landcare Research): Open Source based Pacific Soils Portal
+
 
 # Contact Information
 
