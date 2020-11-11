@@ -2,7 +2,7 @@
 layout: page-with-toc
 title: Wellington Hub FOSS4G SotM Oceania 2020
 titlecontent: ""
-headings: "overview,call-for-presentations,contact-information, schedule, conference-host"
+headings: "overview,call-for-presentations,contact-information,schedule,conference-host"
 ---
 
 
@@ -51,32 +51,44 @@ Please specify:
  Two rooms will be available, one for the international keynotes and local presentations, and another for a live connection
  to the Auckland Hub, for attendees to see their presentations if desired.
 
-| 8:00 am | Registration & Coffee | | 9:00 am | Conference Opening | | 9:30 - 10:30 am | First Session
-3 local talks | | 10:30 am | Morning Tea
-Tea & coffee free from NIWA cafeteria  | | 11:00 - 12:30 am | Second Session
-3 local talks | | 12:30 | 
-Lunch (can be purchased from NIWA staff cafeteria) | | 1:30 - 1:50 pm | Third Session
-Lightning talks | | 2:00 - 4:00 pm | International Streaming Session
-6 speakers via Oceania-wide video link | | 4:00 - 4:10 pm | | Closing Remarks (Easrly finish to escape peal traffic)
+| 8:00 am | Registration & Coffee | 
+| 9:00 am | Conference Opening | 
+| 9:30 - 10:30 am | First Session - local talks | 
+| 10:30 am | Morning Tea (Tea & coffee free from NIWA cafeteria) | 
+| 11:00 - 12:30 am | Second Session - local talks | 
+| 12:30 | Lunch (can be purchased from NIWA staff cafeteria) | 
+| 1:30 - 1:50 pm | Third Session - Lightning talks | 
+| 2:00 - 4:00 pm | International Streaming Session - 6 speakers via Oceania-wide video link | 
+| 4:00 - 4:10 pm | Closing Remarks (Early finish to hopefully escape peak traffic)
 
 # Presentations 
 (nominal 20 mins)
 
 Ian Reese (LINZ): Serverless vector tiles - A lightweight solution
+
 Rose Phillips (LINZ): Airborne LIDAR - Unveiling our nation
+
 Peter King: Visual perception and cartography
+
 David Bowden/Pablo Escobar-Flores/Darren Stevens (NIWA): QGIS in the Ross Sea
+
 Byron Cochrane (OpenWorks): DGGS - partitioning the globe (who need projections?)
+
 Andrea Mari/Brent Wood (NIWA): NiSOS: NIWA's spatially enabled video analysis software
+
 (more coming?)
 
 # Lightning talks 
 (5-10 mins)
 
 Simon Planzer (LINZ): LINZ Data Importer
+
 Simon Nitz (WDC): Wanganui Council's Open GIS software stack
+
 Wendy Shaw (LINZ): QGIS & PostGIS at NZGB
+
 Brent Wood (NIWA): Timeseries data management with Postgis and TimescaleDB
+
 Shrividya Ravi: Geospatial network analysis with R: an example with rail infrastructure
 
 # Contact Information
@@ -90,8 +102,12 @@ NIWA Wellington
 # Location
 
 Main Conference Room/Boardroom
+
 NIWA,
+
 301 Evans Bay Parade,
+
 Hataitai 
+
 
 Please sign in at reception, and follow COVID guidelines.
