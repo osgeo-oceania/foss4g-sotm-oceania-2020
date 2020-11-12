@@ -59,7 +59,7 @@ Please specify:
 | 12:30 | Lunch (can be purchased from NIWA staff cafeteria) | 
 | 1:30 - 1:50 pm | Third Session - Lightning talks | 
 | 2:00 - 4:00 pm | International Streaming Session - 6 speakers via Oceania-wide video link | 
-| 4:00 - 4:10 pm | Closing Remarks (Early finish to hopefully escape peak traffic)
+| 4:00 - 4:10 pm | Closing Remarks (Early finish to hopefully escape peak traffic) |
 
 # Presentations 
 (nominal 20 mins)
@@ -86,7 +86,7 @@ Anthony Pengelly: Using R to access and analyse cloud native satellite imagery
 
 Simon Planzer (LINZ): LINZ Data Importer
 
-Simon Nitz (WDC): Wanganui Council's Open GIS software stack
+Simon Nitz (WDC): Whanganui Council's Open GIS software stack
 
 Wendy Shaw (LINZ): QGIS & PostGIS at NZGB
 
@@ -95,6 +95,14 @@ Brent Wood (NIWA): Timeseries data management with Postgis and TimescaleDB
 Shrividya Ravi: Geospatial network analysis with R: an example with rail infrastructure
 
 David Medyckyj-Scott (Landcare Research): Open Source based Pacific Soils Portal
+
+
+# Conference Shirts and Merchandise
+
+Conference shirts will _not_ be available on the day of the conference. If you would like to purchase conference shirts or other merchandise to celebrate FOSS4G-SotM Oceania 2020 you can purchase directly online:
+
+  * [T-shirts, etc:](https://shop.spreadshirt.com.au/osgeo-oceania/all)
+  * [FOSS4G SotM Oceania 2020 Logo Hoodie](https://www.redbubble.com/people/osgeo-oceania/shop)
 
 
 # Contact Information
