@@ -64,7 +64,7 @@ Please specify:
 # Presentations 
 (nominal 20 mins)
 
-Ian Reese (LINZ): Serverless vector tiles - A lightweight solution
+Ian Reese (XYCarto): Serverless vector tiles - A lightweight solution
 
 Rose Phillips (LINZ): Airborne LIDAR - Unveiling our nation
 
@@ -77,6 +77,8 @@ Byron Cochrane (OpenWorks): DGGS - partitioning the globe
 Andrea Mari/Brent Wood (NIWA): NiSOS- NIWA's spatially enabled video analysis software
 
 Anthony Pengelly: Using R to access and analyse cloud native satellite imagery
+
+Ian Reese (LCR): Introduction to PyGeoAPI (OGC API)
 
 (more coming?)
 
