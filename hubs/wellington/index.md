@@ -78,7 +78,7 @@ Andrea Mari/Brent Wood (NIWA): NiSOS- NIWA's spatially enabled video analysis so
 
 Anthony Pengelly: Using R to access and analyse cloud native satellite imagery
 
-Ian Reese (LCR): Introduction to PyGeoAPI (OGC API)
+Tim Heuer (LCR): Introduction to PyGeoAPI (OGC API)
 
 (more coming?)
 
