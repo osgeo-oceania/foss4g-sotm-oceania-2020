@@ -2,7 +2,7 @@
 layout: page-with-toc
 title: Canberra Hub FOSS4G SotM Oceania 2020
 titlecontent: ""
-headings: "overview,tickets,contact-information,call-for-presentations,sponsors"
+headings: "overview,tickets,contact-information,sponsors"
 ---
 
 
@@ -52,26 +52,9 @@ Tickets are free, with a suggested donation of $50. All ticket proceeds will ben
 
 [Email the hub manager here](mailto:jonahsullivan79@gmail.com)
 
-# Call for Presentations
-Geoscience Australia is hosting the Free Open Source Software for Geospatial - State of the Map - Oceania conference, a hybrid online/in-person event, with in-person hubs being organised in cities across the region, from Perth in the west to Rarotonga in the east, and many places in between...including Canberra.
-
-Transform your research, ideas, and best practices into a presentation at the FOSS4G SotM Oceania 2020 Conference. Spark the imagination and encourage dialogue on the topic of your choosing.
-
-We want you to share your fascinating stories about open source geospatial, open data, and OpenStreetMap in Oceania. We're looking for a diverse range of presenters including: women, people from a variety of ethnic backgrounds, young and old, urban and rural. To achieve this goal we need you to accept the challenge and put yourself forward, the community can't wait to hear what you have to say!
-
-The conference has two components at Geoscience Australia:
-[9am - 11am] An in-person Canberra Hub with presentations by people near you, and the opportunity to gather with old friends and meet new geospatial practitioners from your area.
-[12pm - 2pm] A broadcast of keynote presentations from across the region at GA, bringing the brightest and most thought-provoking ideas to the Canberra Hub.
-Follow the link below to submit your name and presentation details.
-
-[Submit your idea here.](https://forms.gle/vxJeaGR3QQTPGbUH9)
-
-*Closing date for applications is Friday 6th November, 2020.*
-
-
 # Sponsors
 
-We wouldn't be able to make any of this happen without our wonderful sponsors.
+We wouldn't be able to make any of this happen without our wonderful sponsor.
 
 Contact [the hub manager](mailto:jonahsullivan79@gmail.com) if your organisation would like to become a sponsor.
 
