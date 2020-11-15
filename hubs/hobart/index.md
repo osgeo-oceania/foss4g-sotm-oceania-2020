@@ -49,17 +49,17 @@ You will learn about cutting edge technologies and what is on the horizon, meet 
 
 We are monitoring the COVID situation closely and will make sure the conference is a safe and clean space in line with the latest guidance.
 
-## Draft Schedule
+## Schedule
 
-We have a Draft schedule prepared for the day! All times are in AEST
+All times are in AEDT.
 
 | Time          | Event        |
 | :---------    | :----------  |
 | 11:00 - 12:00 | Coffee/Tea & scones (provided), networking, and preparation/setup |
 | 12:00 - 14:00 | International presentations from throughout Oceania |
 | 14:00 - 14:45 | Lunch (provided) and networking |
-| 14:45 - 15:45 | 3 x 20 minute F2F presentations on local projects |
-| 15:45 - 16:00 | Final discussion and wrap-up |
+| 14:45 - 16:00 | 4 x 20 minute F2F presentations on local projects |
+| 16:00 - 16:30 | Final discussion and wrap-up |
 
 Our local presenters are:
 
