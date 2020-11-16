@@ -870,3 +870,26 @@ h2.abstract-subtitle {
     font-weight: bold;
     padding-bottom: 10px;
 }
+
+.front-list {
+    list-style: circle;
+    margin-left: 10;
+    padding-left: 40px;
+}
+
+.front-button {
+    font-family: Hack, monospace;
+    background: #ddd;
+    color: #ffffff;
+    cursor: pointer;
+    font-size: 2em;
+    padding: 0.5rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    border: 0;
+    transition: all 0.5s;
+    border-radius: 10px;
+    width: auto;
+    margin: 30px;
+    margin-bottom: 30px;
+}
