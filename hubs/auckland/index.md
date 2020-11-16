@@ -62,7 +62,7 @@ L.marker([-36.8329616,174.7958966]).addTo(map)
 # Schedule
 
 
-|  8:00 am | Registration & Coffee  |
+|  8:30 am | Registration & Coffee  |
 |  9:00 am | Conference Opening     |
 |  9:15 - 10:30 am | <span style="font-weight: 700">First Session</span><br />4 talks from our [Auckland Hub speaker list](#speakers)  |
 | 10:30 am | Morning Tea<br><small>Tea & coffee supplied</small> |
@@ -161,6 +161,15 @@ The following talks will be held in person at the Auckland Hub.
   <div class="_akl_speaker_name">Dr. Barbara Bollard – AUT</div>
   <div class="_akl_speaker_org">Barbara is a senior lecturer in the School of Applied Sciences at AUT. Her research interests are in GIS applications, ecosystem management and spatial ecology. She has over 20 years experience working in government and NGO's in both Australia and New Zealand.</div>
   <div class="_akl_speaker_title">Mapping Antarctica with drones</div>
+</div>
+
+<div class="_akl_speaker_item">
+  <div class="_akl_speaker_name">Darren Fegus – Locus</div>
+  <div class="_akl_speaker_org">Darren is a Senior Consultant, and FME Certified Professional at Locus; the data integration company.  A multi-disciplinary GIS professional with a BSc major in Geology and minor in GIS, Darren has extensive experience in the Esri stack, FME workbench and Geocortex and is passionate about creating custom workflows and processes that automate repetitive tasks and free people from manual processing jobs.</div>
+  <div class="_akl_speaker_title">How to leverage the power of Google without the cost of APIs</div>
+  <div class="_akl_speaker_abstract">
+    This presentation will look at how to use the power of FME together with Google to explore free geocoding and language translation.
+  </div>
 </div>
 
 <div class="_akl_speaker_item">
