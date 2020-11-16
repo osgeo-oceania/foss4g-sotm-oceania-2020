@@ -228,6 +228,8 @@ In this talk we'll demonstrate what Sno can do, and discuss why Sno represents a
 
 # Map Showcase
 
+<em>Map showcase entries have closed</em>
+
 Have you ever wanted to have your maps professionally printed in large scale? We are very excited to announce our Map Showcase! Submit your map PDF by the end of _Friday 13th November_ (one week before the conference) and we will print and display it at the conference. Many thanks to NZDF for making this possible.
 
 ## Important Terms & Conditions
