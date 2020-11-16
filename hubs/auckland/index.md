@@ -62,7 +62,7 @@ L.marker([-36.8329616,174.7958966]).addTo(map)
 # Schedule
 
 
-|  8:00 am | Registration & Coffee  |
+|  8:30 am | Registration & Coffee  |
 |  9:00 am | Conference Opening     |
 |  9:15 - 10:30 am | <span style="font-weight: 700">First Session</span><br />4 talks from our [Auckland Hub speaker list](#speakers)  |
 | 10:30 am | Morning Tea<br><small>Tea & coffee supplied</small> |
