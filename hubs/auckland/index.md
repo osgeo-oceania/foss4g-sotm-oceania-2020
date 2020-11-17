@@ -31,10 +31,20 @@ Conference attendees will need to enter the base via the Queens Parade gate.
 
 *As this is a security controlled area we ask that you bring identification in case it is required.*
 
+### Arriving By Ferry
+
 Ferries depart the city every 15 minutes, and take approximately 10 minutes to reach the Devonport
 ferry terminal nearby. From there it is a 10 minute walk from the ferry terminal to the base gate.
 
+### Parking
+
+There is a car park available for use by base visitors just outside the Queens Parade gate. There
+is also plenty of unlimited on-street parking along Queens Parade and surrounding streets.
+
+### Location Map
+
 <div id="_aklhub_location_map" style="width:100%; height: 400px; border: 1px solid"></div>
+
 
 <script>
 var map = L.map('_aklhub_location_map', { scrollWheelZoom: false })
@@ -47,6 +57,9 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 L.marker([-36.8305676,174.7884052]).addTo(map)
     .bindPopup('Conference Location: HMNZS PHILOMEL Seminar Centre<br />Devonport Naval Base')
     .openPopup();
+
+L.marker([-36.8301926,174.7911252]).addTo(map)
+    .bindPopup('NZDF Car Park');
 
 L.marker([-36.8305676,174.7908252]).addTo(map)
     .bindPopup('Entry: Queens Parade Gate');
@@ -79,7 +92,7 @@ L.marker([-36.8329616,174.7958966]).addTo(map)
 
 The Early Career Spatial Breakfast is an opportunity for individuals who are new spatial industry, science & software to meet and network over breakfast, sponsored by OSGeo Oceania.
 
-More details will be provided soon. There are limited spaces available by purchasing the _[Full Ticket + Early Career Spatial Breakfast](https://ti.to/foss4g-oceania/2020-auckland-hub/with/full-price-copy-0fda4ff3-7609-426a-b6e0-d7bc5b1bf0c5)_ ticket type on our [hub ticketing page](https://ti.to/foss4g-oceania/2020-auckland-hub).
+There are limited spaces available by purchasing the _[Full Ticket + Early Career Spatial Breakfast](https://ti.to/foss4g-oceania/2020-auckland-hub/with/full-price-copy-0fda4ff3-7609-426a-b6e0-d7bc5b1bf0c5)_ ticket type on our [hub ticketing page](https://ti.to/foss4g-oceania/2020-auckland-hub).
 
 The Early Career Spatial Breakfast is made possible by "Good Mojo" funding from OSGeo Oceania.
 
@@ -166,7 +179,7 @@ The following talks will be held in person at the Auckland Hub.
 <div class="_akl_speaker_item">
   <div class="_akl_speaker_name">Darren Fergus – Locus</div>
   <div class="_akl_speaker_org">Darren is a Senior Consultant, and FME Certified Professional at Locus; the data integration company.  A multi-disciplinary GIS professional with a BSc major in Geology and minor in GIS, Darren has extensive experience in the Esri stack, FME workbench and Geocortex and is passionate about creating custom workflows and processes that automate repetitive tasks and free people from manual processing jobs.</div>
-  <div class="_akl_speaker_title">How to leverage the power of Google without the cost of APIs</div>
+  <div class="_akl_speaker_title">Google Cheats and FME</div>
   <div class="_akl_speaker_abstract">
     This presentation will look at how to use the power of FME together with Google to explore free geocoding and language translation.
   </div>
@@ -287,8 +300,13 @@ a._alk_sponsor_logo img {
 
 }
 </style>
+<div style="text-align: center">
 <a class="_akl_sponsor_logo" href="https://koordinates.com" title="Koordinates" target="_blank">
   <img src="/logos/auckland/koordinates.png" />
-</a><a class="_akl_sponsor_logo" href="https://locus.co.nz" target="_blank">
+</a><a class="_akl_sponsor_logo" href="https://locus.co.nz" title="Locus" target="_blank">
   <img src="/logos/auckland/locus.png" />
 </a>
+<a class="_akl_sponsor_logo" href="https://www.nzdf.mil.nz/nzdf/" title="NZDF" target="_blank">
+  <img src="/logos/auckland/nzdf.jpg" />
+</a>
+</div>
