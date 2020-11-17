@@ -31,10 +31,20 @@ Conference attendees will need to enter the base via the Queens Parade gate.
 
 *As this is a security controlled area we ask that you bring identification in case it is required.*
 
+### Arriving By Ferry
+
 Ferries depart the city every 15 minutes, and take approximately 10 minutes to reach the Devonport
 ferry terminal nearby. From there it is a 10 minute walk from the ferry terminal to the base gate.
 
+### Parking
+
+There is a car park available for use by base visitors just outside the Queens Parade gate. There
+is also plenty of unlimited on-street parking along Queens Parade and surrounding streets.
+
+### Location Map
+
 <div id="_aklhub_location_map" style="width:100%; height: 400px; border: 1px solid"></div>
+
 
 <script>
 var map = L.map('_aklhub_location_map', { scrollWheelZoom: false })
@@ -47,6 +57,9 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 L.marker([-36.8305676,174.7884052]).addTo(map)
     .bindPopup('Conference Location: HMNZS PHILOMEL Seminar Centre<br />Devonport Naval Base')
     .openPopup();
+
+L.marker([-36.8301926,174.7911252]).addTo(map)
+    .bindPopup('NZDF Car Park');
 
 L.marker([-36.8305676,174.7908252]).addTo(map)
     .bindPopup('Entry: Queens Parade Gate');
