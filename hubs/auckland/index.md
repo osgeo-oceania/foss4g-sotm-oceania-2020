@@ -79,7 +79,7 @@ L.marker([-36.8329616,174.7958966]).addTo(map)
 
 The Early Career Spatial Breakfast is an opportunity for individuals who are new spatial industry, science & software to meet and network over breakfast, sponsored by OSGeo Oceania.
 
-More details will be provided soon. There are limited spaces available by purchasing the _[Full Ticket + Early Career Spatial Breakfast](https://ti.to/foss4g-oceania/2020-auckland-hub/with/full-price-copy-0fda4ff3-7609-426a-b6e0-d7bc5b1bf0c5)_ ticket type on our [hub ticketing page](https://ti.to/foss4g-oceania/2020-auckland-hub).
+There are limited spaces available by purchasing the _[Full Ticket + Early Career Spatial Breakfast](https://ti.to/foss4g-oceania/2020-auckland-hub/with/full-price-copy-0fda4ff3-7609-426a-b6e0-d7bc5b1bf0c5)_ ticket type on our [hub ticketing page](https://ti.to/foss4g-oceania/2020-auckland-hub).
 
 The Early Career Spatial Breakfast is made possible by "Good Mojo" funding from OSGeo Oceania.
 
@@ -287,8 +287,13 @@ a._alk_sponsor_logo img {
 
 }
 </style>
+<div style="text-align: center">
 <a class="_akl_sponsor_logo" href="https://koordinates.com" title="Koordinates" target="_blank">
   <img src="/logos/auckland/koordinates.png" />
-</a><a class="_akl_sponsor_logo" href="https://locus.co.nz" target="_blank">
+</a><a class="_akl_sponsor_logo" href="https://locus.co.nz" title="Locus" target="_blank">
   <img src="/logos/auckland/locus.png" />
 </a>
+<a class="_akl_sponsor_logo" href="https://www.nzdf.mil.nz/nzdf/" title="NZDF" target="_blank">
+  <img src="/logos/auckland/nzdf.jpg" />
+</a>
+</div>
