@@ -166,7 +166,7 @@ The following talks will be held in person at the Auckland Hub.
 <div class="_akl_speaker_item">
   <div class="_akl_speaker_name">Darren Fergus – Locus</div>
   <div class="_akl_speaker_org">Darren is a Senior Consultant, and FME Certified Professional at Locus; the data integration company.  A multi-disciplinary GIS professional with a BSc major in Geology and minor in GIS, Darren has extensive experience in the Esri stack, FME workbench and Geocortex and is passionate about creating custom workflows and processes that automate repetitive tasks and free people from manual processing jobs.</div>
-  <div class="_akl_speaker_title">How to leverage the power of Google without the cost of APIs</div>
+  <div class="_akl_speaker_title">Google Cheats and FME</div>
   <div class="_akl_speaker_abstract">
     This presentation will look at how to use the power of FME together with Google to explore free geocoding and language translation.
   </div>
