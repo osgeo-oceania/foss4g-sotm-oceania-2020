@@ -2,11 +2,24 @@
 layout: page-with-toc
 title: Auckland Hub FOSS4G SotM Oceania 2020
 titlecontent: ""
-headings: "overview,attend,location,schedule,early-career-spatial-breakfast,after-event,speakers,map-showcase,conference-shirts-and-merchandise,contact-information,sponsors-and-partners"
+headings: "thank-you,overview,attend,location,schedule,early-career-spatial-breakfast,after-event,speakers,map-showcase,conference-shirts-and-merchandise,contact-information,sponsors-and-partners"
 ---
 
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
 <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+
+# Thank You
+
+Thank you to our sponsors, presenters and attendees for making FOSS4G-SotM Oceania Auckland Hub an amazing event.
+
+We welcome your feedback at [akl-hub@foss4g-oceania.org](mailto:akl-hub@foss4g-oceania.org) and we look
+forward to seeing you at FOSS4G-SotM Oceania 2021!
+
+<img style="border: 1px solid rgba(255, 255, 255, 0.9); box-shadow: 0 2px 4px black" src="img/FOSS4G-Oceania-2020-Auckland-Hub-Photo-WEB.jpg" alt="FOSS4G Auckland Hub Group Photo" />
+
+<a href="img/FOSS4G-Oceania-2020-Auckland-Hub-Photo.jpg" target="_blank">Download Hi-Res Version</a>
+
+<hr />
 
 # Overview
 
