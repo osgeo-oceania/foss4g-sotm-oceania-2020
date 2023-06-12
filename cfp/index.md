@@ -9,4 +9,4 @@ headings: "call_for_presentations,presentation_recordings"
 Call for Presentations has closed. Your local hub may still be accepting presentation submissions.
 
 ## Presentation Recordings
-This page will be used to make presentation recordings available after the conference.
+You can find [videos on our YouTube channel](https://www.youtube.com/channel/UCbqmnF77HxLCmO9d7LrEbpg/videos)
